@@ -1,4 +1,5 @@
-Coursera_capstone
+**Coursera_capstone**
+
 Capstone project of Applied Data Science course from IBM Data Science Professional Certificate specialization.
 
 Introduction: Business Problem
