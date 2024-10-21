@@ -1,3 +1,10 @@
+**Coursera IBM Data Science Professional Certificate**
+
+
+![Model](https://github.com/venqics/Coursera_capstone/blob/ac61290dddfeabbfe2aa7b0c6ff169f06d28b95f/Coursera_IBM_DATA_SCIENCE_SPECILIZATION_CERTIFICATE.png)
+
+
+
 **Coursera_capstone**
 
 Capstone project of Applied Data Science course from IBM Data Science Professional Certificate specialization.
